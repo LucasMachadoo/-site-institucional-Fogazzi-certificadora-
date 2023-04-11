@@ -1,0 +1,24 @@
+.container-01 {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15rem;
+  }
+  .img-svg-body{
+    align-items: center;
+    max-width:35%;
+    height: auto;
+  }
+.container-01> a{
+    background-color: #B5985A;
+    color: white;
+    border: #B5985A;
+  }
+  .container-01> a:hover{
+    background-color: #ffffff;
+    color: #B5985A;
+    border:#B5985A;
+  }
